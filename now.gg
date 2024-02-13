@@ -1,0 +1,15 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Embed now.gg</title>
+</head>
+
+<body>
+    <iframe src="https://www.now.gg"></iframe>
+
+    <!-- Additional HTML content and styling if needed -->
+    
+</body>
+
+</html>
